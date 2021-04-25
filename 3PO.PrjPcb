@@ -74,15 +74,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZDPYWWA
 
-[ProjectVariant1]
-UniqueID=25AE18AF-605C-4DC6-B9BD-FE076CF33E8F
-Description=Gate Drive Automatic Reset
-AllowFabrication=0
-ParameterCount=0
-VariationCount=2
-Variation1=Designator=C5|UniqueId=\EDCBCKAN|Kind=1|AlternatePart= 
-Variation2=Designator=R3|UniqueId=\UEJTDXAX|Kind=1|AlternatePart= 
-ParamVariationCount=0
+[Document3]
+DocumentPath=Phase.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WKIPWNHF
+
+[GeneratedDocument1]
+DocumentPath=3PO.cmp
+DItemRevisionGUID=
 
 [Parameter1]
 Name=EngineerName
@@ -430,6 +441,12 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=Export Comments
+OutputName7=Export Comments
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1050,10 +1067,16 @@ ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0805
-ComponentDesignItemID5=CRCW08054K70JNTA
+ComponentDesignItemID5=CRCW08052R00JNEA
 ComponentSymbolReference5=Resistor
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0805
+ComponentDesignItemID6=CRCW08054K70JNTA
+ComponentSymbolReference6=Resistor
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
