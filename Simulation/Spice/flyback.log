@@ -1,0 +1,73 @@
+Circuit: * C:\Users\Ryan\Google Drive\Projects\3PO\Simulation\Spice\flyback.asc
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 9.76563e-011
+Changing Tseed to 9.76562e-013
+Changing Tseed to 9.76562e-010
+Heightened Def Con from 6.16155e-006 to 6.16155e-006
+Heightened Def Con from 6.16155e-006 to 6.16155e-006
+Heightened Def Con from 1.40814e-005 to 1.40814e-005
+Heightened Def Con from 1.40814e-005 to 1.40821e-005
+Heightened Def Con from 1.80413e-005 to 1.80413e-005
+Heightened Def Con from 1.80413e-005 to 1.80413e-005
+Heightened Def Con from 1.80413e-005 to 1.80413e-005
+Heightened Def Con from 1.80413e-005 to 1.80413e-005
+Heightened Def Con from 1.80413e-005 to 1.80413e-005
+Heightened Def Con from 2.59612e-005 to 2.59612e-005
+Heightened Def Con from 2.59612e-005 to 2.59632e-005
+Heightened Def Con from 2.99212e-005 to 2.99212e-005
+Heightened Def Con from 2.99212e-005 to 2.99212e-005
+Heightened Def Con from 3.38811e-005 to 3.38811e-005
+Heightened Def Con from 3.78411e-005 to 3.78431e-005
+Heightened Def Con from 4.9721e-005 to 4.9723e-005
+Heightened Def Con from 5.3681e-005 to 5.3681e-005
+Heightened Def Con from 6.1601e-005 to 6.1601e-005
+Heightened Def Con from 6.1601e-005 to 6.1603e-005
+Heightened Def Con from 7.3481e-005 to 7.3483e-005
+Heightened Def Con from 7.7441e-005 to 7.7441e-005
+Heightened Def Con from 7.7441e-005 to 7.7443e-005
+Heightened Def Con from 8.08254e-005 to 8.08274e-005
+Heightened Def Con from 8.5361e-005 to 8.5361e-005
+Heightened Def Con from 8.5361e-005 to 8.5361e-005
+Heightened Def Con from 9.3281e-005 to 9.3281e-005
+Heightened Def Con from 9.3281e-005 to 9.3283e-005
+Heightened Def Con from 9.7241e-005 to 9.7241e-005
+Heightened Def Con from 9.7241e-005 to 9.7243e-005
+Heightened Def Con from 0.000105161 to 0.000105161
+Heightened Def Con from 0.000140801 to 0.000140801
+Heightened Def Con from 0.000140801 to 0.000140801
+Heightened Def Con from 0.000148721 to 0.000148721
+Heightened Def Con from 0.000152681 to 0.000152681
+Heightened Def Con from 0.000152681 to 0.000152683
+Heightened Def Con from 0.000156641 to 0.000156643
+Heightened Def Con from 0.000160601 to 0.000160601
+Heightened Def Con from 0.000160601 to 0.000160603
+Heightened Def Con from 0.000164561 to 0.000164561
+Heightened Def Con from 0.000164561 to 0.000164563
+Heightened Def Con from 0.000168521 to 0.000168521
+Heightened Def Con from 0.000180401 to 0.000180401
+Heightened Def Con from 0.000180401 to 0.000180401
+Heightened Def Con from 0.000180401 to 0.000180403
+Heightened Def Con from 0.000188321 to 0.000188321
+Heightened Def Con from 0.000188321 to 0.000188321
+Heightened Def Con from 0.000192281 to 0.000192283
+Heightened Def Con from 0.000200201 to 0.000200203
+Heightened Def Con from 0.000220001 to 0.000220003
+
+Date: Thu May 27 21:44:47 2021
+Total elapsed time: 0.478 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 219731
+traniter = 219699
+tranpoints = 65413
+accept = 49744
+rejected = 15715
+matrix size = 9
+fillins = 4
+solver = Normal
+Matrix Compiler1: 484 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 689 bytes object code size  0.1/0.1/[0.1]
+
